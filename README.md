@@ -8,7 +8,7 @@ Joa Galdame</a></h1>
 
 <p>
   <ul>
-    <li>🔭 I’m currently working on SoftSystem SGN</li>
+    <li>🔭 I’m currently work as a freelancer in Full Stack Web Developer.</li>
     <li>🌱 I’m currently learning in my Bachelor's Degree in Computer Science</li>
     <li>👯 I’m looking to collaborate on Freelance or other proyects</li>
     <li>💬 Ask me about any thing what you need! </li>
