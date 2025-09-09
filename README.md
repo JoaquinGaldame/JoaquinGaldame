@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.joaquingaldame.com/" target="blank"  rel="noreferrer">
 Joa Galdame</a></h1>
 
-<h2 align="center">Web Site - <a href="https://www.joaquingaldame.com/" target="_blank" align="center" rel="noreferrer">Joaquín Galdame</a></h2>
+<h2 align="center">Website - <a href="https://www.joaquingaldame.com/" target="_blank" align="center" rel="noreferrer">Joaquín Galdame</a></h2>
 <h3 align="center">A Full Stack Web Developer and University Technician in Programming &#127470;&#127475;</h3>
 
 <a target="_blank" align="center">
@@ -28,7 +28,7 @@ Joa Galdame</a></h1>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
-
+<br>
 <p align="center">
 
 
