@@ -10,18 +10,21 @@ Joa Galdame</a></h1>
 
 <p>
   <ul>
-    <li>🔭 I’m currently work as a freelancer in Full Stack Web Developer.</li>
-    <li>🌱 I’m currently learning in my Bachelor's Degree in Computer Science</li>
-    <li>👯 I’m looking to collaborate on Freelance or other proyects</li>
+    <li>🔭 I’m currently work as a Full Stack Web Developer.</li>
+    <li>🎓 I’m University Technician in Programming. </li>
+    <li>🌱 I’m currently finishing my Bachelor's degree in Computer Science.</li>
+    <li>👨‍🎨 I´m open to work! </li>
+    <li>👯 Proactive and good communication skills.</li>
     <li>💬 Ask me about any thing what you need! </li>
     <li>📫 How to reach me:
         <ul>
           <li>Email joakingaldame@gmail.com</li>
-          <li>LinkedInt <a href="https://www.linkedin.com/in/joaqu%C3%ADn-galdame-375897130/" target="blank">Joaquin Galdame</a></li>
+          <li>LinkedIn <a href="https://www.linkedin.com/in/joaqu%C3%ADn-galdame-375897130/" target="blank">Joaquin Galdame</a></li>
         </ul>
     </li>
-    <li>💪 Strong Skill: Angular</li>
-    <li>⚡ Fun fact: I really love games!:</li>
+    <li>💪 Strong Skill: Angular +14
+      & SQL</li>
+    <li>⚽ Fun fact: I really love soccer! I'm a River Plate Fan</li>
   </ul>
 </p>
 
