@@ -10,7 +10,7 @@ Joa Galdame</a></h1>
 
 <p>
   <ul>
-    <li>🔭 I’m currently work as a Full Stack Web Developer.</li>
+    <li>🔭 I’m currently work as a Full Stack Web Developer at I-Rent Development.</li>
     <li>🎓 I’m University Technician in Programming. </li>
     <li>🌱 I’m currently finishing my Bachelor's degree in Computer Science.</li>
     <li>👨‍🎨 I´m open to work! </li>
