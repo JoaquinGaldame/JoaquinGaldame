@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.joaquingaldame.com/" target="blank"  rel="noreferrer">
-Joa Galdame</a></h1>
-
-<h2 align="center">Website - <a href="https://www.joaquingaldame.com/" target="_blank" align="center" rel="noreferrer">Joaquín Galdame</a></h2>
-<h3 align="center">A Full Stack Web Developer and University Technician in Programming &#127470;&#127475;</h3>
-
+<h1 align="center">Joaquin Galdame</h1>
+<h3 align="center">Full Stack Web Developer - Software Engineer</h3>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHI4MTU5czV0bDN2bjJqeXVrMGFrdWJsc3pnZ3NuZ3Q1N3VrazBkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 </a>
@@ -22,18 +18,142 @@ Joa Galdame</a></h1>
           <li>LinkedIn <a href="https://www.linkedin.com/in/joaqu%C3%ADn-galdame-375897130/" target="blank">Joaquin Galdame</a></li>
         </ul>
     </li>
-    <li>💪 Strong Skill: Angular +14
-      & SQL</li>
+    <li>💪 Strong Skill: All</li>
     <li>⚽ Fun fact: I really love soccer! I'm a River Plate Fan</li>
   </ul>
 </p>
 
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-<br>
 <p align="center">
+  <a href="https://www.joaquingaldame.com/" target="_blank" rel="noreferrer">Portfolio</a>
+  |
+  <a href="https://www.linkedin.com/in/joaqu%C3%ADn-galdame-375897130/" target="_blank" rel="noreferrer">LinkedIn</a>
+  |
+  <a href="mailto:joakingaldame@gmail.com">joakingaldame@gmail.com</a>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Software%20%20Engineer-0F172A?style=for-the-badge" alt="Focus Full Stack Engineering" />
+  <img src="https://img.shields.io/badge/Specialty-Cloud%20%26%20DevOps-1D4ED8?style=for-the-badge" alt="Cloud and DevOps" />
+  <img src="https://img.shields.io/badge/Location-Argentina-166534?style=for-the-badge" alt="Location Argentina" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p><br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joaquingaldame&label=Profile%20Views&color=0f172a&style=flat" alt="Profile views" />
+</p>
+
+---
+## Professional Profile
+
+Semi-Senior Full Stack Developer and University Technician in Programming with experience building multi-tenant enterprise systems, modern web applications, and production-ready infrastructure. I have worked across frontend, backend, databases, cloud platforms, and CI/CD pipelines, combining product delivery with maintainable architecture and operational reliability.
+
+My strongest profile combines frontend development, modular backend design, API development, SQL and NoSQL data work, and cloud deployments on AWS. I focus on clean code, scalable solutions, and practical engineering decisions that improve both product quality and team productivity.
+
+## Quick Overview
+
+| Area | Details |
+| --- | --- |
+| Current role | Software Developer (.NET) - Cloud & DevOps at I-Rent Development SL |
+| Main focus | Multi-tenant enterprise systems, frontend architecture, APIs, Cloud & DevOps |
+| Strong stack | Angular, React, .NET, Node.js, SQL, AWS |
+| Education | University Technician in Programming - Graduated |
+| Current studies | Bachelor's Degree in Computer Science - Advanced Student |
+| Availability | Open to work |
+| Location | Argentina |
+| Languages | Spanish, English |
+
+## What I Bring
+
+- Experience building multi-tenant enterprise platforms for operations, analytics, inventory, approvals, contracts, and ERP-related workflows.
+- Strong frontend development background with Angular, React, Next.js, and modern UI implementation practices.
+- Backend experience with .NET, Node.js, Express, TypeScript, and modular architecture patterns.
+- Practical Cloud & DevOps experience with AWS infrastructure, Docker, CI/CD pipelines, and production deployments.
+- Strong focus on code quality, maintainability, and scalable application design.
+- Clear communication, ownership, and collaboration across technical and business contexts.
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Core Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,vue,js,ts,html,css,tailwind,bootstrap" />
+</p>
+
+`Angular` `React.js` `Next.js` `Vue 3` `Quasar` `JavaScript` `TypeScript` `HTML5` `CSS3` `SCSS` `Tailwind CSS` `Bootstrap`
+
+### Backend and Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,nestjs" />
+</p>
+
+`.NET Framework` `.NET Core` `.NET 8` `Node.js` `Express` `NestJS` `Entity Framework` `Drizzle ORM` `Zod`
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+`PostgreSQL` `SQL Server` `MongoDB`
+
+### Programming and Foundations
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
+
+`C` `C++` `Java` `Python`
+
+### Cloud, DevOps and Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
+</p>
+
+`AWS` `ECS` `ECR` `VPC` `IAM` `ACM` `Secrets Manager` `Docker` `GitHub Actions` `Bitbucket Pipelines` `Windows Server` `Linux` `Git`
+
+## What I Work With
+
+```text
+Frontend      Angular, React, Next.js, Vue 3, Tailwind, SCSS
+Backend       .NET, Node.js, Express, NestJS
+Architecture  Multi-tenant systems, modular design, Clean Architecture
+Databases     PostgreSQL, SQL Server, MongoDB
+Cloud         AWS, Docker, S3, CloudFront, ECS Fargate
+DevOps        GitHub Actions, Bitbucket Pipelines, production deployments
+```
+
+## Professional Experience Highlights
+
+## Skills and Strengths
+
+- Frontend architecture and responsive interface development.
+- API development and business-oriented backend design.
+- Multi-tenant systems and modular application structure.
+- Cloud infrastructure and deployment automation.
+- CI/CD implementation for development and production workflows.
+- Continuous learning, adaptability, and strong team collaboration.
+
+## Current Goals
+
+- Continue growing as a Full Stack Developer with stronger system design and cloud architecture skills.
+- Contribute to modern, scalable digital products with strong engineering standards.
+- Keep deepening expertise in backend architecture, DevOps, and production infrastructure.
+
+## Contact
+
+- Portfolio: [joaquingaldame.com](https://www.joaquingaldame.com/)
+- LinkedIn: [Joaquin Galdame](https://www.linkedin.com/in/joaqu%C3%ADn-galdame-375897130/)
+- Email: [joakingaldame@gmail.com](mailto:joakingaldame@gmail.com)
+
+## GitHub Snapshot
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaquingaldame&show_icons=true&theme=default&hide_border=true&title_color=0f172a&icon_color=1d4ed8&text_color=334155" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquingaldame&layout=compact&hide_border=true&title_color=0f172a&text_color=334155" alt="Top languages" />
+</p>
+
+## Beyond Code
+
+- I enjoy football and I am a River Plate fan.
+
