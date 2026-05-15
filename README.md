@@ -75,42 +75,42 @@ My strongest profile combines frontend development, modular backend design, API 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,vue,js,ts,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,vue,redux,js,ts,html,css,tailwind,bootstrap" />
 </p>
 
-`Angular` `React.js` `Next.js` `Vue 3` `Quasar` `JavaScript` `TypeScript` `HTML5` `CSS3` `SCSS` `Tailwind CSS` `Bootstrap`
+`Angular` `React.js` `Redux Toolkit` `Next.js` `Vue 3` `Quasar` `JavaScript` `TypeScript` `HTML5` `CSS3` `SCSS` `Tailwind CSS` `Bootstrap`
 
 ### Backend and Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,nestjs" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,nestjs,fastapi,graphql,php,laravel" />
 </p>
 
-`.NET Framework` `.NET Core` `.NET 8` `Node.js` `Express` `NestJS` `Entity Framework` `Drizzle ORM` `Zod`
+`.NET Framework` `.NET Core` `.NET 8` `Node.js` `Express` `NestJS` `FastAPI` `GraphQL` `PHP` `Laravel` `Entity Framework` `Drizzle ORM` `Zod`
 
-### Databases
+### Databases and Caching
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
-`PostgreSQL` `SQL Server` `MongoDB`
+`PostgreSQL` `SQL Server` `MySQL` `MongoDB` `Redis`
 
 ### Programming and Foundations
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,solidity" />
 </p>
 
-`C` `C++` `Java` `Python`
+`C` `C++` `Java` `Python` `Solidity`
 
 ### Cloud, DevOps and Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kafka,grafana,prometheus,nginx,linux,git,github,bitbucket,npm,pnpm" />
 </p>
 
-`AWS` `ECS` `ECR` `VPC` `IAM` `ACM` `Secrets Manager` `Docker` `GitHub Actions` `Bitbucket Pipelines` `Windows Server` `Linux` `Git`
+`AWS` `ECS` `ECR` `VPC` `IAM` `ACM` `Secrets Manager` `Docker` `Kafka` `Prometheus` `Grafana` `Nginx` `GitHub Actions` `Bitbucket Pipelines` `Bitbucket` `npm` `pnpm` `Windows Server` `Linux` `Git`
 
 ## What I Work With
 
