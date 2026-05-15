@@ -18,7 +18,6 @@
           <li>LinkedIn <a href="https://www.linkedin.com/in/joaqu%C3%ADn-galdame-375897130/" target="blank">Joaquin Galdame</a></li>
         </ul>
     </li>
-    <li>💪 Strong Skill: All</li>
     <li>⚽ Fun fact: I really love soccer! I'm a River Plate Fan</li>
   </ul>
 </p>
@@ -115,12 +114,15 @@ My strongest profile combines frontend development, modular backend design, API 
 ## What I Work With
 
 ```text
-Frontend      Angular, React, Next.js, Vue 3, Tailwind, SCSS
-Backend       .NET, Node.js, Express, NestJS
-Architecture  Multi-tenant systems, modular design, Clean Architecture
-Databases     PostgreSQL, SQL Server, MongoDB
-Cloud         AWS, Docker, S3, CloudFront, ECS Fargate
-DevOps        GitHub Actions, Bitbucket Pipelines, production deployments
+Frontend      Angular, React, Redux Toolkit, Next.js, Vue 3, Tailwind, SCSS
+Backend       .NET, Node.js, Express, NestJS, FastAPI, Laravel, GraphQL
+Architecture  Multi-tenant systems, modular design, Clean Architecture, Event-Driven Systems
+Databases     PostgreSQL, SQL Server, MongoDB, Redis
+Cloud         AWS, Docker, ECS Fargate, S3, CloudFront, Nginx
+Observability Prometheus, Grafana
+Messaging     Kafka
+DevOps        GitHub Actions, Bitbucket Pipelines, npm, pnpm, production deployments
+Blockchain    Solidity, Web3 indexing, RPC integrations
 ```
 
 ## Professional Experience Highlights
